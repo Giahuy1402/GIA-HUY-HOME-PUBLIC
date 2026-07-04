@@ -199,15 +199,15 @@ allowing landlords to manage rental properties efficiently while tenants interac
 
 # 📸 Screenshots
 
-> *(Screenshots will be added here.)*
+> *Go to [main] to view detailed images of the project.*<
 
-| Dashboard | Chat |
-|------------|------|
-| image | image |
+<img width="1242" height="836" alt="image" src="https://github.com/user-attachments/assets/4c771ccf-5df2-4333-8662-b3b1ff8a98dd" />
+<img width="1432" height="937" alt="image" src="https://github.com/user-attachments/assets/8ebe451b-dde6-4947-a4e8-be7961e95913" />
+<img width="1538" height="991" alt="image" src="https://github.com/user-attachments/assets/7df3b9ee-350a-41ef-9f27-834a756cfb7e" />
 
-| Invoice | Discord Bot |
-|----------|-------------|
-| image | image |
+
+
+
 
 ---
 
